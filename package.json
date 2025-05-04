@@ -10,8 +10,16 @@
     "test": "jest"
   },
   "dependencies": {
+    "@react-native-async-storage/async-storage": "^2.1.2",
+    "@react-navigation/bottom-tabs": "^7.3.11",
+    "@react-navigation/native-stack": "^7.3.11",
+    "@reduxjs/toolkit": "^2.7.0",
+    "@types/axios": "^0.9.36",
+    "axios": "^1.9.0",
+    "axois": "^0.0.1-security",
     "react": "19.0.0",
-    "react-native": "0.78.2"
+    "react-native": "0.78.2",
+    "react-native-toast-message": "^2.3.0"
   },
   "devDependencies": {
     "@babel/core": "^7.25.2",
